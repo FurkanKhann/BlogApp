@@ -4,7 +4,7 @@ NewsAI is a Flask-based web application where users can register, create posts, 
 
 ## 🚀 Live Demo
 
-🔗 [https://blogapp-production-4765.up.railway.app/home]()  
+🔗 https://jmigram.onrender.com/login?next=%2F
 
 
 ---
